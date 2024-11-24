@@ -2,18 +2,24 @@
   "name": "testing",
   "version": "1.0.0",
   "description": "the voices are getting louder",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
-
-    "start": "node index.ts"
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatGuyMoment/im-gonna-cry.git"
   },
   "keywords": [
     "silly"
   ],
   "author": "me",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatGuyMoment/im-gonna-cry/issues"
+  },
+  "homepage": "https://github.com/CatGuyMoment/im-gonna-cry#readme",
   "dependencies": {
     "express": "^4.21.1"
   }
 }
- 
