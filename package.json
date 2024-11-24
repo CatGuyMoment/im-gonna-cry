@@ -1,0 +1,19 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "the voices are getting louder",
+  "main": "index.ts",
+  "scripts": {
+
+    "start": "node index.ts"
+  },
+  "keywords": [
+    "silly"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
+ 
